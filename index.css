@@ -1,0 +1,70 @@
+body{
+    font-family: Arial;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+}
+.content1{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+}
+.content2{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.content3{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.content4{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.content5{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.content6{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.content7{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.content8{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.allcontent{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+#loadDataButton{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+div{
+    margin-top: 10px;
+}
+div.content{
+    width: 200px;
+}
